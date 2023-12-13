@@ -1,5 +1,7 @@
 
-<h2 align="left">Hello World! 👋 I'm Abdelfattah BOUHLALI, a Junior Data Scientist and Software Engineer from Morocco. Let's explore the world of data and code together! 🌐💻</h2>
+### <h2 align="left">👋 Hello World! 👋 </h2> ###
+<h3 align="left">I'm Abdelfattah BOUHLALI, a Junior Data Scientist and Software Engineer from Morocco. </h3>
+<h3 align="left">Let's explore the world of data and code together! 🌐💻 </h3>
 
 ###
 
